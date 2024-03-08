@@ -1,0 +1,30 @@
+Intégrer les éléments suivant à minima :
+
+- Refaire le projet en Typescript
+- Onboarding tutoriel
+- Social connect avec Firebase
+- Ecran Formulaire connexion
+- Ecran Formulaire inscription
+- Ecran Mot de passe oublié
+- Ecran Changer son mot de passe après mot de passe oublié
+- Navigation en tabgroup (mettre un Tabgroup Custom de base)
+- Revoir l'organisation / architecture des dossiers
+- Lib Notifications push FCM
+- Lib Crashlytics
+- Composant Prendre une photo
+- Composant Sélectionner une photo
+- Composant à utiliser dans les formulaires : type de champ téléphone + suffix + valider un numéro de téléphone, adresse
+- Lib de géolocalisation
+- Ecran afficher une map Google Maps / Plans
+- Module pour afficher une notification en foreground
+- ReactQuery pour les requetes REST et GraphQL
+- Subscriptions GraphQL pour le temps réel
+- Gestion des states globaux avec Context
+
+- Implémenter des exemples d'API GraphQL avec https://rickandmortyapi.com/graphql
+- Composant de ListSection h/v (avec un fichier où on regroupe tout les types item comme des itemTemplate)
+- Composant de Loader global
+- Ajout du deep link (au moins pour la page détail) avec react navigation
+- Composant pour gérer un Infinite list rapidement
+- Composant pour mettre un pull to refresh sur une liste ou scrollview
+- Revoir la gestion des formulaires

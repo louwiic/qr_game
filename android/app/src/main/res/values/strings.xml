@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">qrwin</string>
+    <string name="default_notification_channel_id">channel_starter</string>
+</resources>
